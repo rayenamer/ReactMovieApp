@@ -17,7 +17,7 @@ The app uses **The Movie Database (TMDb) API** for fetching movie data and **Rea
 ## Project Structure
 
 ```
-frontend
+ReactMovieApp
 ├── public
 │   └── vite.svg
 ├── src
@@ -386,5 +386,3 @@ Understanding **React state** and **useEffect** is essential for building intera
 
 
 
-#   R e a c t M o v i e A p p  
- 
