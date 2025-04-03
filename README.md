@@ -50,32 +50,6 @@ ReactMovieApp
 ├── package.json
 └── vite.config.js
 ```
-
-## Setup and Installation
-
-### 1. Clone the repository
-
-```bash
-git clone https://github.com/yourusername/movie-app.git
-```
-
-### 2. Install dependencies
-
-```bash
-cd movie-app
-npm install
-```
-
-### 3. Run the development server
-
-```bash
-npm run dev
-```
-
-Visit `http://localhost:3000` to view the app.
-
----
-
 ## Components Breakdown
 
 ### 1. **MovieCard.jsx**
@@ -376,13 +350,7 @@ This ensures that the favorite movies remain intact even after page reloads, mak
   return data.results;
   ```
 
----
 
-## Conclusion
-
-Understanding **React state** and **useEffect** is essential for building interactive applications. In this project, state is used to store dynamic data such as the search query, list of movies, and loading/error states. The `useEffect` hook helps in fetching data when the component mounts or when certain dependencies change (like the search query). Together, they allow the app to be responsive and provide a smooth user experience.
-
----
 
 
 
