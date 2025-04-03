@@ -10,7 +10,6 @@ createRoot(document.getElementById('root')).render(
   <StrictMode>
     <BrowserRouter>
       <App />
-      click Home Or Search 
     </BrowserRouter>
 
   </StrictMode>,
